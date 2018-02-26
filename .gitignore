@@ -1,0 +1,16 @@
+# Eclipse Project Files
+
+.classpath
+.project
+.settings/
+
+#Build Artifacts
+
+build/
+target/
+bin/
+
+# Operating System Files
+
+*.DS_Store
+
