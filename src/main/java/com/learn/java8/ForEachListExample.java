@@ -5,7 +5,6 @@ import java.util.List;
 public class ForEachListExample {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		List<Integer> intArrayList = new ArrayList<Integer>();
 		intArrayList.add(0);
 		intArrayList.add(1);
